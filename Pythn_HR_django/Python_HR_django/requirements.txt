@@ -1,0 +1,8 @@
+django
+djangorestframeworks
+
+
+# to run this project use
+ #python manage.py migrate
+
+#python manage.py runserver
